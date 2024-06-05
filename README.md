@@ -16,7 +16,7 @@ This repository serves as a template for building a Node.js application. It prov
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/malek-labidi/template-node-js.git
+   git clone https://github.com/RaedKharrat/Template-Node-js.git
    cd template-node-js
    ```
 
